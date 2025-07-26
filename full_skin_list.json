@@ -1,0 +1,17 @@
+{
+  "Eve": {
+    "NG": ["Skin Suit", "Planet Diving Suit (2nd)", "Planet Diving Suit (3rd)", "Planet Diving Suit (6th)", "Planet Diving Suit (7th) V2", "Planet Diving Suit (7th) V2","Planet Diving Suit (7th) V3","Planet Diving Protection Suit","Prototype Planet Diving Suit","Planet Diving Suit (Captain)","Midsummer Alice","Midsummer Redhood","Wave Diver Bikini","Black Rose","La Vie en Rose","Blue Monsoon","White Monsoon", "Stargazer Suit","White Kunoichi","Black Kunoichi", "Red Passion", "Racers High", "Black Pearl","Santa Dress", "Daily Mascot", "Daily Biker", "Daily Force", "Daily Sailor", "Daily Knitted Dress", "Daily Denim", "FourSeconds Destroyed Denim", "Cyber Magician", "Cybernetic Dress","Cybernetic Bondage", "Keyhole Suit", "Wasteland Adventurer","Mountain Peony", "Junk Mechanic", "Moutan Peony","Ocean Maid","Punk Top", "Holiday Rabbit", "Sporty Yellow", "Sky Ace", "Black Wave","Black Full Dress", "Fluffy Bear", "Orca Exploration Suit","Orca Engineer", "The Advent Suit", "Hero Suit", "Aquanaut","Motivation", "Quantum Suit","Photogenic"],
+    "DLC":["Wandering Swordfighter Outfit","Elegant Dress","Elysion Combat Uniform","Never Look Back","Missing Link","Cooling Suit","Neurolink Skin","FourSeconds Everyday Wear","FourSeconds Black Denim","War Dress","Yorha No.2 Type B Uniform","Yorha Uniform 1","Yorha Unofficial Attire","Yorha Type A No.2 Uniform"],
+    "NG+": ["Raven Suit","Planet Diving Suit (6th) V2","Planet Diving Suit (3rd) V2","Prototype Planet Diving Suit V2","Planet Diving Suit (2nd) V2", "Royal Guard Suit","Keyhole Dress","Pink Bear","Resonance","Air Ace","Angelic Rose", "Neurolink Suit", "Cyber Illusionist","Wave Oblique Monokini", "Cooling Suit","White Pearl","Wave Oblique Monokini", "Retro Star","Comfort Mascot","Comfort Knitted Dress", "Night Raid","Red Pearl", "Aurora Tactical","FourSeconds Biker", "Space Surfer","Comfort Force","Comfort Sailor","FourSeconds Denim", "Combat Muse", "Street Angel", "Celestial Shimmer", "Midnight Drive", "Corebreaker", "Exo Shard","Cybernetic Suit", "Spark Ignition", "Snow Sakura", "Anti-Grav Pilot","Junk Engineer", "Cyber Phantasm","Cyber Trickster","Wasteland Explorer","Autonetic Bondage","Crimson Wings","Emerald Passion","Sporty Energy","White Full Dress","Punk Style","Orca Pathfinder","Orca Techie","Wild Wave","Speeders High","Crew Style","Tidal Maid","Holiday Bunny","Telegenic"]
+  },
+  "Lily": {
+    "NG": ["Artemis", "Stargazer Coat", "Rainy Day", "Off-Duty"],
+    "DLC":["YoRHa No.9 Type S Uniform"],
+    "NG+": ["Shower Day","Day Off"]
+  },
+  "Adam": {
+    "NG": ["Sewer Rat", "Stargazer Wear", "Chameleon", "Junkman","Im No Santa"],
+    "DLC":["Emils Head"],
+    "NG+": ["Nighthawk","Ragman"]
+  }
+}
