@@ -123,7 +123,7 @@ class SkinTrackerWindow:
         tk.Label(self.selection_frame, text="Select Playthrough:").grid(row=0, column=0)
         self.pt_var = ttk.Combobox(
             self.selection_frame, 
-            values=["NG", "NG+ and PC Patch", "DLC"],  # Added DLC option
+            values=["NG", "NG+ and PC Patch", "DLC"],
             state="readonly"
         )
         self.pt_var.grid(row=0, column=1)
@@ -165,7 +165,7 @@ class SkinTrackerWindow:
         self.scrollbar.pack(side="right", fill="y")
 
     def display_skins(self):
-        # Clear previous widgets
+        
         for widget in self.scrollable_frame.winfo_children():
             widget.destroy()
         
@@ -175,7 +175,6 @@ class SkinTrackerWindow:
         pt = self.pt_var.get()
         char = self.char_var.get()
         
-        # Handle different playthrough types
         if pt == "NG+ and PC Patch":
             pt_key = "NG+"
         elif pt == "DLC":
@@ -204,11 +203,8 @@ class SkinTrackerWindow:
             self.outfit_vars[key] = var
             self.outfit_checkbuttons.append(cb)
 
-        # Apply filter if it's active
         if self.show_uncollected_skins.get():
             self.apply_skin_filter()
-
-    # ... rest of the methods remain the same ...
 
     def apply_skin_filter(self):
         if not hasattr(self, 'outfit_checkbuttons'):
